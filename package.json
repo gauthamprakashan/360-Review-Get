@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.12.8"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.1",
+    "dotenv": "^16.4.5"
+  },
+  "scripts": {
+    "start": "tsc Mentor_Mentee_Fetch.ts && node Mentor_Mentee_Fetch.js"
+  },
+  "name": "get-request",
+  "version": "1.0.0",
+  "main": "Mentor_Mentee_Fetch.js",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
