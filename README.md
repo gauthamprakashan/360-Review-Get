@@ -1,3 +1,3 @@
 # 360-Review-Get
-##run npm start
+## run npm start
 It fetches data from mentor table.
